@@ -1,2 +1,3 @@
-# badge-test
-Test repo to earn GitHub badges
+# Badge Test
+
+This project is teh best example for learning GitHub badges.
